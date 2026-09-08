@@ -1,4 +1,4 @@
-### Hi, I'm Adit 👋
+### Hi, I'm Al Adiyat 👋
 
 Backend-leaning fullstack developer based in Bandung, Indonesia.
 
