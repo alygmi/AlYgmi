@@ -2,7 +2,7 @@
 
 Backend-leaning fullstack developer based in Bandung, Indonesia.
 
-I build internal business systems, CRM, member portals, and retail/POS reporting —
+I build internal business systems, CRM, member portals, and retail/POS reporting.
 where the hard part is usually messy data, undocumented legacy code, and numbers that
 have to be right the first time. A good chunk of my work has been **migrating codebases
 between stacks**: Zend → React, Node.js → Laravel, Golang → Python.
