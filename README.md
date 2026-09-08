@@ -33,7 +33,7 @@ and service-to-service communication one service at a time.
 #### 📌 Selected work
 
 - **[user-service](https://github.com/sayurku-apps/user-service)** : JWT auth service (Spring Boot 4, PostgreSQL)
-- **CeritaBaik** : desktop-first React redesign for a donation platform
+- **CeritaBaik(https://github.com/alygmi/ceritabaik-landing-page)** : desktop-first React redesign for a donation platform
 - **EOD Reporting** : end-of-day reporting system for a retail chain (Laravel + React)
 
 ---
