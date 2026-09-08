@@ -37,4 +37,4 @@ and service-to-service communication one service at a time.
 #### 📫 Get in touch
 
 - 📧 nurrusulialadiyat@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/USERNAME-KAMU)
+- 💼 [LinkedIn](https://linkedin.com/in/aladiyat)
